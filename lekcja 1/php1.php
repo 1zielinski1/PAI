@@ -1,7 +1,4 @@
 <?php
 $mycounter = 1;
-    echo "Hello world";
-    echo "Hello friend";
-    echo "My counter 1". $mycounter;
-
+    echo "<h1>Hello world</h1> <br> My counter $mycounter <br> Hello friend";
 ?>
