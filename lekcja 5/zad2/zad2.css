@@ -1,11 +1,11 @@
 body { 
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(192, 220, 255);
+    background-color:#55555539;
   }
   form{    
     width:500px;    
     margin:20px auto;    
-    border:2px solid rgb(127, 127, 127); 
+    border:2px solid rgb(0, 0, 0); 
     padding:20px;
   }
   form label {    
@@ -13,11 +13,11 @@ body {
     margin-bottom:5px;    
     font-weight:bold;    
     font-size:12px;    
-    color:#555555;
+    color:#000000;
   }
   form textarea,form input{ 
     padding:5px;  
-    border:1px solid #ccc;  
+    border:1px solid rgb(0, 0, 0);  
     margin-bottom:25px;  
     width:100%; 
     box-sizing: border-box;
