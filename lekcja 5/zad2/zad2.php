@@ -29,7 +29,7 @@
     }
 
     if(isset($_POST['message'])){
-        echo "<b>" . $_POST['message'] . "</b>";
+        echo  htmlspecialchars ($_POST['message']);
     }
 
 
