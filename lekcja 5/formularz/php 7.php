@@ -2,7 +2,7 @@
     <head>
         <title>PAI 7</title>
         <meta charset="utf-8">
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="formcheck.css">
     </head>
     <body>
         <form method="post">
